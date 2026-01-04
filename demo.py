@@ -1,0 +1,12 @@
+print("I am Akash Vaghela \nGood TO see You\nLets start our work ")
+Name="Akash Vaghela"
+print(Name)
+name = input("Enter Your Name Here:")
+print(name)
+age = int(input("Enter Your Age Here:"))
+print(age)
+length = float(input("Enter The Recatangle Value Here:"))
+print(length)
+Evaluate = eval(input("Enter The Equation Value Here:"))
+print(Evaluate)
+print(type(age))
